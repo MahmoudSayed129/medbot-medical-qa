@@ -36,7 +36,7 @@ This project is developed as part of our master's studies in Data Science at TU 
 
 | Name | GitHub |
 |------|--------|
-| [Mahmoud Sayed]     | [@MahmoudSayed129](https://github.com/MahmoudSayed129))     |
+| [Mahmoud Sayed]     | [@MahmoudSayed129](https://github.com/MahmoudSayed129)     |
 | [Michael Yassa]     | [@Miichael-Yassa](https://github.com/Miichael-Yassa)     |
 | [Abdelrahman Abdelgawad]     | [@abdelrahmansaeed291](https://github.com/abdelrahmansaeed291)     |
 
